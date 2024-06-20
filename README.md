@@ -1,22 +1,20 @@
-# Sokoban Clónico
+# Sokoban Clone
 
-Vídeo: https://youtu.be/jqytwvg-yUQ
+Welcome to the Sokoban Clone game!
 
-¡Bienvenido al juego Sokoban Clónico!
+This game is inspired by the classic Sokoban, where the objective is to push all the boxes onto the targets located on the map.
 
-Este es un juego inspirado en el clásico Sokoban, donde el objetivo es empujar todas las cajas hacia los objetivos ubicados en el mapa.
+## Content
 
-## Contenido
+- Music and sounds from Tetris (Game Boy) and GB Boxxle (Game Boy).
 
-- Música y sonidos de Tetris (Game Boy) y GB Boxxle (Game Boy).
+## Requirements
 
-## Requisitos
+- Unity 2022.3.20f1 or higher.
 
-- Unity 2022.3.20f1 o superior.
+## Controls
 
-## Controles
+- Use the arrow keys to move the character.
+- Press the Esc key to restart the level.
 
-- Utiliza las flechas del teclado para mover al personaje.
-- Presiona la tecla Esc para reiniciar el nivel.
-
-¡Disfruta del desafío!
+Enjoy the challenge!
